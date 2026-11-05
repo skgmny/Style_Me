@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">midterm_2416542</string>
+
+    <string name="style_me_title">StylE ME</string>
+    <string name="outfit_guide">Tap to find your style!</string>
+
+    <string name="section_top">Top</string>
+    <string name="section_bottom">Bottom</string>
+    <string name="section_shoes">Shoes</string>
+
+    <string name="previous">Prev</string>
+    <string name="next">Next</string>
+    <string name="close">Close</string>
+
+    <string name="save_outfit">Save This Outfit</string>
+    <string name="saved_outfit_count">Saved Outfits: %1$d</string>
+
+    <string name="outfit_name_label">Name This Outfit</string>
+    <string name="memo_label">Memo</string>
+
+    <string name="expand_outfit">Expand outfit</string>
+    <string name="collapse_outfit">Collapse outfit</string>
+    <string name="unnamed_outfit">Untitled Outfit</string>
+</resources>

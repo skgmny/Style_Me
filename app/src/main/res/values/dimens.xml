@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="guide_height">35dp</dimen>
+    <dimen name="section_spacing">2dp</dimen>
+
+    <dimen name="logo_icon_size">28dp</dimen>
+    <dimen name="logo_spacing">8dp</dimen>
+
+    <dimen name="clothing_image_size">180dp</dimen>
+    <dimen name="bottom_image_height">280dp</dimen>
+    <dimen name="shoes_image_height">120dp</dimen>
+
+    <dimen name="saved_top_height">90dp</dimen>
+    <dimen name="saved_bottom_height">140dp</dimen>
+    <dimen name="saved_shoes_height">60dp</dimen>
+
+    <dimen name="memo_height">100dp</dimen>
+    <dimen name="outfit_thumbnail_width">40dp</dimen>
+</resources>
