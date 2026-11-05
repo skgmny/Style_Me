@@ -36,6 +36,19 @@
 - 코디의 이름과 메모를 입력하거나 수정할 수 있습니다.
 - 별도의 저장 버튼 없이 입력 내용이 즉시 반영됩니다.
 - 수정한 이름은 카드 제목에도 반영되며, 카드를 접어도 입력 내용이 유지됩니다.
+## 모바일 어플 화면 예시
+1. 코디 선택 화면
+<img width="301" height="587" alt="image" src="https://github.com/user-attachments/assets/51453e00-e791-45fa-b780-a25213b97e72" />
+<img width="301" height="587" alt="image" src="https://github.com/user-attachments/assets/35c06eee-56be-4762-8611-7ce695439412" />
+<img width="301" height="587" alt="image" src="https://github.com/user-attachments/assets/66c64483-3530-4dc1-98ef-ddb4dcbdc51b" />
+
+
+2. 코디 저장 후 메모
+<img width="306" height="598" alt="image" src="https://github.com/user-attachments/assets/a4498fd9-ec97-4ec8-a877-ce149b825396" />
+<img width="305" height="598" alt="image" src="https://github.com/user-attachments/assets/8b95fdfa-121b-4844-8c42-be19294dd337" />
+<img width="305" height="598" alt="image" src="https://github.com/user-attachments/assets/beac8518-fa25-4adb-a967-8d2743bb1ab8" />
+
+
 
 ## 화면 구성
 
